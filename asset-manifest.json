@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Multi-Signature-Wallet/static/css/main.94c1e3df.chunk.css",
+    "main.js": "/Multi-Signature-Wallet/static/js/main.8864a41a.chunk.js",
+    "main.js.map": "/Multi-Signature-Wallet/static/js/main.8864a41a.chunk.js.map",
+    "runtime-main.js": "/Multi-Signature-Wallet/static/js/runtime-main.15532357.js",
+    "runtime-main.js.map": "/Multi-Signature-Wallet/static/js/runtime-main.15532357.js.map",
+    "static/css/2.24ec10a6.chunk.css": "/Multi-Signature-Wallet/static/css/2.24ec10a6.chunk.css",
+    "static/js/2.63f578e6.chunk.js": "/Multi-Signature-Wallet/static/js/2.63f578e6.chunk.js",
+    "static/js/2.63f578e6.chunk.js.map": "/Multi-Signature-Wallet/static/js/2.63f578e6.chunk.js.map",
+    "index.html": "/Multi-Signature-Wallet/index.html",
+    "precache-manifest.b392606dadbefe7e7f10d216956cff2c.js": "/Multi-Signature-Wallet/precache-manifest.b392606dadbefe7e7f10d216956cff2c.js",
+    "service-worker.js": "/Multi-Signature-Wallet/service-worker.js",
+    "static/css/2.24ec10a6.chunk.css.map": "/Multi-Signature-Wallet/static/css/2.24ec10a6.chunk.css.map",
+    "static/css/main.94c1e3df.chunk.css.map": "/Multi-Signature-Wallet/static/css/main.94c1e3df.chunk.css.map",
+    "static/js/2.63f578e6.chunk.js.LICENSE.txt": "/Multi-Signature-Wallet/static/js/2.63f578e6.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Multi-Signature-Wallet/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15532357.js",
+    "static/css/2.24ec10a6.chunk.css",
+    "static/js/2.63f578e6.chunk.js",
+    "static/css/main.94c1e3df.chunk.css",
+    "static/js/main.8864a41a.chunk.js"
+  ]
+}
